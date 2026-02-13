@@ -1,0 +1,6 @@
+db.url=jdbc:oracle:thin:@localhost:1521/XE
+# Update these with your Oracle credentials
+
+db.user=USER
+db.password=PASS
+db.driver=oracle.jdbc.OracleDriver
